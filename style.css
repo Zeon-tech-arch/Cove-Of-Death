@@ -54,3 +54,26 @@
 .card p {
     color: #8195a5;
 }
+
+.file {
+    margin-top: 30px;
+    padding: 30px;
+
+    background: #0b141d;
+    border-left: 3px solid #4aa3df;
+
+    text-align: left;
+}
+
+.file h2 {
+    color: #dce8f0;
+}
+
+.file span {
+    display: block;
+    margin-top: 25px;
+
+    color: #e05252;
+    font-size: 12px;
+    letter-spacing: 2px;
+}
